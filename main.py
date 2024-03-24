@@ -18,3 +18,11 @@ h_a = 10
 pole_trojkata = 1/2* bok_a *h_a
 
 print(pole_trojkata)
+
+
+bok_a = 5
+h_a = 10
+
+pole_rombu = bok_a * h_a
+
+print(pole_rombu)
