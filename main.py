@@ -26,3 +26,12 @@ h_a = 10
 pole_rombu = bok_a * h_a
 
 print(pole_rombu)
+
+bok_a = 10
+
+pole_kwadratu = bok_a**2
+
+pole_szescianu = 6* pole_kwadratu
+
+print(pole_szescianu)
+
